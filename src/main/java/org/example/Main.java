@@ -6,6 +6,6 @@ public class Main {
     }
 
     public void cosTam(String name) {
-        System.out.println(name);
+        System.out.println(name + "xD");
     }
 }
