@@ -5,7 +5,7 @@ public class Main {
         System.out.println("Hello world!");
     }
 
-    public void cosTam(String name){
+    public void cosTam(String name) {
         System.out.println(name);
     }
 }
